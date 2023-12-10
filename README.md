@@ -1,5 +1,4 @@
-# IDSproject
-Lung Cancer Survival Prediction with Synthetic Data
+# Lung Cancer Survival Prediction with Synthetic Data
 
 Authors: Marten Mathias Jaani, Norman Tolmats, Joosep Lember
 
